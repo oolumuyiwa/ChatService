@@ -1,0 +1,6 @@
+@TSKee.ChatService_HostAddress = http://localhost:5068
+
+GET {{TSKee.ChatService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
